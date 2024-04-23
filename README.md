@@ -15,7 +15,7 @@ This Python script provides a set of tools to gather system information, execute
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/majmalgot/system-information-tool.git
+git clone  https://github.com/majmalgot/NetworkScripts
 
 2. Navigate to the project directory:
 
