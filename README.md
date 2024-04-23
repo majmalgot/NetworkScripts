@@ -1,5 +1,5 @@
 # NetworkScripts
-# System Information Tool
+# Information Tools
 
 This Python script provides a set of tools to gather system information, execute commands, and display information about services and running processes in a switch selection menu format.
 
